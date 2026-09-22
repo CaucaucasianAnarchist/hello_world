@@ -2,7 +2,7 @@
 I started exploring the Rust language.
 
 # Cloning repository
-git clone https://github.com/NovaKoko25/hellow_world
+git clone https://github.com/CaucaucasianAnarchist/hellow_world
 
 # Run with Cargo
 cd hello_world/hello_cargo
